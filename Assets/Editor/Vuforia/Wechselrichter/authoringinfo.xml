@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.0.8">
+        <ModelTarget name="Wechselrichter_2" targetId="c5c67c4c41ef4281b759fa01957a82dc" version="14.0" toolVersion="v7.0.8" bbox="-0.312161 -0.012759 -0.230843 0.293667 0.162180 0.245519" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="low_feature_objects" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="Wechselrichter_2" assemblyId="1903ac6dc63e40e1bf2c207a8980babf">
+        <Part name="Wechselrichter_2" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>
