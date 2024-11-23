@@ -406,7 +406,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 242316364}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 902860125}
+        m_TargetAssemblyTypeName: SceneChanger, Assembly-CSharp
+        m_MethodName: changeScene
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &242316364
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -755,6 +767,7 @@ GameObject:
   - component: {fileID: 902860124}
   - component: {fileID: 902860123}
   - component: {fileID: 902860122}
+  - component: {fileID: 902860125}
   m_Layer: 0
   m_Name: EventSystem
   m_TagString: Untagged
@@ -812,6 +825,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &902860125
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 902860121}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8d6c6baf4cdcb34cb4f432bea3e3d6b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneName: Wechselrichter_Main
 --- !u!1 &913985933
 GameObject:
   m_ObjectHideFlags: 0
