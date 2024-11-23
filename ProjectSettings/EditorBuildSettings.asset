@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 4755b35b590504809a7525fd2109c2e2
   - enabled: 1
-    path: Assets/Scenes/Wechselrichter_Test.unity
+    path: Assets/Scenes/Wechselrichter_Backup-Old.unity
     guid: ae1ed870daeba254c887fe34b492227b
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 343694cfcd25d83419dfa9044fec8e8a,
