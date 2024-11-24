@@ -29,7 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Wechselrichter_Settings_LED.unity
     guid: ea671982a1e53224cbff258f29d24675
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Wechselrichter_Settings_OutputKabel.unity
     guid: 4f106e37b4a6eda4f8ec071b2863cbd2
   m_configObjects:
