@@ -18,11 +18,20 @@ EditorBuildSettings:
     path: Assets/Scenes/Wechselrichter_Settings.unity
     guid: b6de2ab8b498ef843ba813f5490cc97e
   - enabled: 1
-    path: Assets/Scenes/Wechselrichter_Settings_Support.unity
+    path: Assets/Scenes/Wechselrichter_Settings_1Support.unity
     guid: 5ff74a748a873aa4e9e8e2a926e92480
   - enabled: 1
     path: Assets/Scenes/Wechselrichter_Settings_Verkauf.unity
     guid: 67e401e000d3dd1488a72df9d80bf02f
+  - enabled: 1
+    path: Assets/Scenes/Wechselrichter_Settings_Einschalten.unity
+    guid: 72dbf588ba355c648bb06a2cdd557934
+  - enabled: 1
+    path: Assets/Scenes/Wechselrichter_Settings_LED.unity
+    guid: ea671982a1e53224cbff258f29d24675
+  - enabled: 1
+    path: Assets/Scenes/Wechselrichter_Settings_OutputKabel.unity
+    guid: 4f106e37b4a6eda4f8ec071b2863cbd2
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 343694cfcd25d83419dfa9044fec8e8a,
       type: 2}

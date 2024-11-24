@@ -1278,7 +1278,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e8d6c6baf4cdcb34cb4f432bea3e3d6b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Wechselrichter_Settings_Support
+  sceneName: Wechselrichter_Settings
 --- !u!4 &1281701833
 Transform:
   m_ObjectHideFlags: 0
