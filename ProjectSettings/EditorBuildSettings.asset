@@ -12,11 +12,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Wechselrichter_Backup-Old.unity
     guid: ae1ed870daeba254c887fe34b492227b
   - enabled: 1
-    path: Assets/Scenes/Wechselrichter_Main.unity
-    guid: a426af6fb7c87d14dae7ea19e5f9694e
-  - enabled: 1
     path: Assets/Scenes/Wechselrichter_Settings.unity
     guid: b6de2ab8b498ef843ba813f5490cc97e
+  - enabled: 1
+    path: Assets/Scenes/Wechselrichter_Main.unity
+    guid: a426af6fb7c87d14dae7ea19e5f9694e
   - enabled: 1
     path: Assets/Scenes/Wechselrichter_Settings_1Support.unity
     guid: 5ff74a748a873aa4e9e8e2a926e92480
@@ -29,6 +29,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Wechselrichter_Settings_LED.unity
     guid: ea671982a1e53224cbff258f29d24675
+  - enabled: 0
+    path: Assets/Scenes/Test.unity
+    guid: 134033901b127d548a9f8b96120013ca
   - enabled: 0
     path: Assets/Scenes/Wechselrichter_Settings_OutputKabel.unity
     guid: 4f106e37b4a6eda4f8ec071b2863cbd2
