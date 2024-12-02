@@ -749,6 +749,21 @@ PrefabInstance:
       propertyPath: led7
       value: 
       objectReference: {fileID: 2104178571}
+    - target: {fileID: 3899392076071283390, guid: ec6b51b69aae9cd449c21db0fbae8649,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 3899392076071283390, guid: ec6b51b69aae9cd449c21db0fbae8649,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 3899392076071283390, guid: ec6b51b69aae9cd449c21db0fbae8649,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -916.4
+      objectReference: {fileID: 0}
     - target: {fileID: 5877105501425331905, guid: ec6b51b69aae9cd449c21db0fbae8649,
         type: 3}
       propertyPath: m_Name

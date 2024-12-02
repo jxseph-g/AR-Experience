@@ -514,6 +514,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: UI_Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 3162121743601517020, guid: 16de510c5f717dd4690e7c1029dc3dc8,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 3162121743601517020, guid: 16de510c5f717dd4690e7c1029dc3dc8,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 3162121743601517020, guid: 16de510c5f717dd4690e7c1029dc3dc8,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -928.6
+      objectReference: {fileID: 0}
     - target: {fileID: 5138921770877451661, guid: 16de510c5f717dd4690e7c1029dc3dc8,
         type: 3}
       propertyPath: m_Pivot.x
